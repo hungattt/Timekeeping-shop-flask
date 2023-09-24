@@ -1,0 +1,951 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 419-181-635
+2023-06-25 Sunday 00:55:46 werkzeug:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+2023-06-25 Sunday 00:55:46 werkzeug:INFO:[33mPress CTRL+C to quit[0m
+2023-06-25 Sunday 00:55:54 werkzeug:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+2023-06-25 Sunday 00:55:54 werkzeug:INFO:[33mPress CTRL+C to quit[0m
+2023-06-25 Sunday 00:56:42 werkzeug:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+2023-06-25 Sunday 00:56:42 werkzeug:INFO:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:57:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:57:25] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:57:26] "[35m[1mGET /static/images/space.mp4 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:57:28] "GET /static/images/icons/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:57:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:57:43] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:57:43] "GET /static/login.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:58:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:58:59] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:58:59] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:58:59] "GET /static/index.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 00:59:00] "GET /static/images/Searchs_130.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:06] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:06] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:06] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:07] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:08] "[36mGET /static/images/icons/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /form?key=4_Nguyễn+Kim+Chung_128_웬김중 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/vendor/animate/animate.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/vendor/select2/select2.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/css/util.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/images/img-01.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:11] "GET /static/images/pexels-photo-572897.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:12] "GET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:12] "GET /static/vendor/bootstrap/js/popper.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:12] "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:12] "GET /static/vendor/select2/select2.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:12] "GET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:17:12] "GET /static/js/form.js HTTP/1.1" 200 -
+INFO:KT:Bắt đầu xử lý ID=4_Nguyễn Kim Chung_128_웬김중
+INFO:KT:Version_no: 2
+INFO:KT:KT001@1: 2023-06-25 01:18:15.412243: 128_Nguyễn Kim Chung: Month: 12 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:18:15.412243: 128_Nguyễn Kim Chung: Week: 500,012 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:18:15.412243: 128_Nguyễn Kim Chung: Thanks: 12 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:18:15.412243: 128_Nguyễn Kim Chung: Celebrate: 12 (+12) 
+ERROR:KT:Lỗi khi xử ký data: 4_Nguyễn Kim Chung_128_웬김중
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:15] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:16] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:23] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:23] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:23] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:23] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:18:23] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:19] "GET /form?key=4_Nguyễn+Kim+Chung_128_웬김중 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:19] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:19] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:19] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:19] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:19] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:19] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:20] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=4_Nguyễn Kim Chung_128_웬김중
+INFO:KT:Version_no: 2
+INFO:KT:KT001@1: 2023-06-25 01:20:27.622907: 128_Nguyễn Kim Chung: Month: 13 (+13) 
+INFO:KT:KT001@1: 2023-06-25 01:20:27.622907: 128_Nguyễn Kim Chung: Week: 500,013 (+13) 
+INFO:KT:KT001@1: 2023-06-25 01:20:27.622907: 128_Nguyễn Kim Chung: Thanks: 13 (+13) 
+INFO:KT:KT001@1: 2023-06-25 01:20:27.622907: 128_Nguyễn Kim Chung: Celebrate: 13 (+13) 
+ERROR:KT:Lỗi khi xử ký data: 4_Nguyễn Kim Chung_128_웬김중
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:27] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:27] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:27] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:28] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:29] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:29] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:30] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:30] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:20:30] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:04] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:04] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:04] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:04] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:05] "[36mGET /static/images/icons/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:12] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:14] "[35m[1mGET /static/images/space.mp4 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:14] "[35m[1mGET /static/images/space.mp4 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:20] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:20] "[36mGET /static/login.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:55] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:22:55] "[36mGET /static/login.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:13] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:13] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:13] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:13] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "GET /form?key=4_Nguyễn+Kim+Chung_128_웬김중 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:17] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:18] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:18] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:18] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:18] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:18] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:18] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=4_Nguyễn Kim Chung_128_웬김중
+INFO:KT:Version_no: 2
+INFO:KT:KT001@1: 2023-06-25 01:23:25.324380: 128_Nguyễn Kim Chung: Month: 14 (+14) 
+INFO:KT:KT001@1: 2023-06-25 01:23:25.324380: 128_Nguyễn Kim Chung: Week: 500,014 (+14) 
+INFO:KT:KT001@1: 2023-06-25 01:23:25.324380: 128_Nguyễn Kim Chung: Thanks: 14 (+14) 
+INFO:KT:KT001@1: 2023-06-25 01:23:25.324380: 128_Nguyễn Kim Chung: Celebrate: 14 (+14) 
+ERROR:KT:Lỗi khi xử ký data: 4_Nguyễn Kim Chung_128_웬김중
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:26] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:27] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:27] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:27] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:28] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:23:28] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "GET /form?key=4_Nguyễn+Kim+Chung_128_웬김중 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:05] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:06] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:06] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:06] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:06] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:06] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:06] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:06] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=4_Nguyễn Kim Chung_128_웬김중
+INFO:KT:Version_no: 2
+INFO:KT:KT001@1: 2023-06-25 01:25:11.863912: 128_Nguyễn Kim Chung: Month: 12 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:25:11.863912: 128_Nguyễn Kim Chung: Week: 500,012 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:25:11.863912: 128_Nguyễn Kim Chung: Thanks: 12 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:25:11.863912: 128_Nguyễn Kim Chung: Celebrate: 12 (+12) 
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:11] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:11] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:12] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:14] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:14] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:14] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:14] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:40] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:41] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:41] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:41] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:42] "[36mGET /static/images/icons/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:43] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:43] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:44] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 2
+INFO:KT:KT001@1: 2023-06-25 01:25:50.882173: 128_Phạm Thị Hải Yến: Month: 13 (+13) 
+INFO:KT:KT001@1: 2023-06-25 01:25:50.882173: 128_Phạm Thị Hải Yến: Week: 650,013 (+13) 
+INFO:KT:KT001@1: 2023-06-25 01:25:50.882173: 128_Phạm Thị Hải Yến: Thanks: 13 (+13) 
+INFO:KT:KT001@1: 2023-06-25 01:25:50.882173: 128_Phạm Thị Hải Yến: Celebrate: 13 (+13) 
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:50] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:50] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:51] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:52] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:53] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:53] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:53] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:53] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:25:53] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:28:42] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:28:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:28:42] "[36mGET /static/login.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:21] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:21] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:22] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:22] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:26] "GET /form?key=6_Cao+Thị+Diệu+Linh_128_가우티지에우링 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:27] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=6_Cao Thị Diệu Linh_128_가우티지에우링
+INFO:KT:Version_no: 3
+INFO:KT:KT003@3: 2023-06-25 01:29:36.852392: 128_Cao Thị Diệu Linh: Month: 16 (+16) 
+INFO:KT:KT003@3: 2023-06-25 01:29:36.852392: 128_Cao Thị Diệu Linh: Week: 1,000,016 (+16) 
+INFO:KT:KT003@3: 2023-06-25 01:29:36.852392: 128_Cao Thị Diệu Linh: Thanks: 16 (+16) 
+INFO:KT:KT003@3: 2023-06-25 01:29:36.852392: 128_Cao Thị Diệu Linh: Celebrate: 16 (+16) 
+ERROR:KT:Lỗi khi xử ký data: 6_Cao Thị Diệu Linh_128_가우티지에우링
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:36] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:36] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:37] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:39] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:39] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:39] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:39] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:29:39] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:27] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:28] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:29] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 3
+INFO:KT:KT003@3: 2023-06-25 01:30:36.199231: 128_Phạm Thị Hải Yến: Month: 29 (+16) 
+INFO:KT:KT003@3: 2023-06-25 01:30:36.199231: 128_Phạm Thị Hải Yến: Week: 650,029 (+16) 
+INFO:KT:KT003@3: 2023-06-25 01:30:36.199231: 128_Phạm Thị Hải Yến: Thanks: 29 (+16) 
+INFO:KT:KT003@3: 2023-06-25 01:30:36.199231: 128_Phạm Thị Hải Yến: Celebrate: 29 (+16) 
+ERROR:KT:Lỗi khi xử ký data: 5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:36] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:37] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:39] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:39] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:39] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:30:39] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:23] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:23] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:23] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:24] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:24] "[36mGET /static/images/icons/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:27] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 3
+INFO:KT:KT003@3: 2023-06-25 01:31:32.451093: 128_Phạm Thị Hải Yến: Month: 25 (+12) 
+INFO:KT:KT003@3: 2023-06-25 01:31:32.451093: 128_Phạm Thị Hải Yến: Week: 650,025 (+12) 
+INFO:KT:KT003@3: 2023-06-25 01:31:32.451093: 128_Phạm Thị Hải Yến: Thanks: 25 (+12) 
+INFO:KT:KT003@3: 2023-06-25 01:31:32.451093: 128_Phạm Thị Hải Yến: Celebrate: 25 (+12) 
+ERROR:KT:Lỗi khi xử ký data: 5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:32] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:33] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:34] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:34] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:34] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:35] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:31:35] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:27] "[36mGET /static/login.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:41] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:42] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:42] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:42] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:46] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:46] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:46] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:46] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:46] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:46] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:46] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:47] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 3
+INFO:KT:KT001@1: 2023-06-25 01:32:54.660593: 128_Phạm Thị Hải Yến: Month: 29 (+16) 
+INFO:KT:KT001@1: 2023-06-25 01:32:54.660593: 128_Phạm Thị Hải Yến: Week: 650,029 (+16) 
+INFO:KT:KT001@1: 2023-06-25 01:32:54.660593: 128_Phạm Thị Hải Yến: Thanks: 29 (+16) 
+INFO:KT:KT001@1: 2023-06-25 01:32:54.660593: 128_Phạm Thị Hải Yến: Celebrate: 29 (+16) 
+ERROR:KT:Lỗi khi xử ký data: 5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:54] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:54] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:54] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:55] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:57] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:57] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:57] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:57] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:32:57] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:23] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:24] "[35m[1mGET /static/images/space.mp4 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:28] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:29] "[36mGET /static/login.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:38] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:38] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:38] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:38] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:43] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 3
+INFO:KT:KT001@1: 2023-06-25 01:33:49.029687: 128_Phạm Thị Hải Yến: Month: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:33:49.029687: 128_Phạm Thị Hải Yến: Week: 650,025 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:33:49.029687: 128_Phạm Thị Hải Yến: Thanks: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:33:49.029687: 128_Phạm Thị Hải Yến: Celebrate: 25 (+12) 
+ERROR:KT:Lỗi khi xử ký data: 5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:49] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:50] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:50] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:50] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:51] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:51] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:51] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:51] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:33:51] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:38:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:38:57] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:38:57] "[35m[1mGET /static/images/space.mp4 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:38:57] "[35m[1mGET /static/images/space.mp4 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:02] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:03] "[36mGET /static/login.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:12] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:12] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:12] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:12] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:12] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:16] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:16] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:16] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:17] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 3
+INFO:KT:KT001@1: 2023-06-25 01:39:24.331240: 128_Phạm Thị Hải Yến: Month: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:39:24.331240: 128_Phạm Thị Hải Yến: Week: 650,025 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:39:24.331240: 128_Phạm Thị Hải Yến: Thanks: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:39:24.331240: 128_Phạm Thị Hải Yến: Celebrate: 25 (+12) 
+ERROR:KT:Lỗi khi xử ký data: 5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:25] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:25] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:25] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:25] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:25] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:25] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:25] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:26] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:26] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:26] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:39:26] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.39.102:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:26] "[36mGET /static/login.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:37] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:37] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:37] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:37] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:43] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:44] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 3
+INFO:KT:KT001@1: 2023-06-25 01:53:50.091139: 128_Phạm Thị Hải Yến: Month: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:53:50.091139: 128_Phạm Thị Hải Yến: Week: 650,025 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:53:50.091139: 128_Phạm Thị Hải Yến: Thanks: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:53:50.091139: 128_Phạm Thị Hải Yến: Celebrate: 25 (+12) 
+ERROR:KT:Lỗi khi xử ký data: 5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:50] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:51] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:51] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:51] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:52] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:52] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:53] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:53] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:53:53] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:01] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:02] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:02] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:02] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:02] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:02] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:02] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:02] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=5_Phạm Thị Hải Yến_128_팜티하이이엔
+INFO:KT:Version_no: 3
+INFO:KT:KT001@1: 2023-06-25 01:54:07.855466: 128_Phạm Thị Hải Yến: Month: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:54:07.855466: 128_Phạm Thị Hải Yến: Week: 650,025 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:54:07.855466: 128_Phạm Thị Hải Yến: Thanks: 25 (+12) 
+INFO:KT:KT001@1: 2023-06-25 01:54:07.855466: 128_Phạm Thị Hải Yến: Celebrate: 25 (+12) 
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:07] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:07] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:08] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:11] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:11] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:11] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:11] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2023 01:54:12] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3693
+ * Running on http://192.168.1.8:3693
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:44:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:44:53] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:44:53] "[35m[1mGET /static/images/space.mp4 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:44:55] "GET /static/images/icons/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:45:18] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:45:18] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:45:18] "GET /static/login.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:47:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:47:56] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:47:56] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:47:56] "GET /static/index.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:47:56] "GET /static/images/Searchs_130.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /form?key=4_Nguyễn+Kim+Chung_128_웬김중 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/animate/animate.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/select2/select2.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/css/util.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/images/img-01.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/bootstrap/js/popper.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/js/form.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/images/pexels-photo-572897.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/select2/select2.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:11] "GET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:54] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:54] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:54] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:54] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "GET /form?key=7_Trần+Thị+Tâm_128_쩐티덤 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:56] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:59] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:59] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:59] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:48:59] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:49:51] "GET /getdata HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "GET /form?key=6_Cao+Thị+Diệu+Linh_128_가우티지에우링 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:50:41] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:KT:Bắt đầu xử lý ID=6_Cao Thị Diệu Linh_128_가우티지에우링
+INFO:KT:Version_no: 3
+INFO:KT:KT001@1: 2023-09-25 00:51:08.423112: 128_Cao Thị Diệu Linh: Month: 4 (+4) 
+INFO:KT:KT001@1: 2023-09-25 00:51:08.423112: 128_Cao Thị Diệu Linh: Week: 1,000,002 (+2) 
+INFO:KT:KT001@1: 2023-09-25 00:51:08.423112: 128_Cao Thị Diệu Linh: Thanks: 1,222 (+1,222) 
+INFO:KT:KT001@1: 2023-09-25 00:51:08.423112: 128_Cao Thị Diệu Linh: Celebrate: 333 (+333) 
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "POST /form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:08] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:11] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:12] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:12] "[36mGET /static/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:12] "[36mGET /static/images/Searchs_130.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "GET /form?key=5_Phạm+Thị+Hải+Yến_128_팜티하이이엔 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:51:17] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "GET /form?key=6_Cao+Thị+Diệu+Linh_128_가우티지에우링 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/images/img-01.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/fonts/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/animate/animate.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/css-hamburgers/hamburgers.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/select2/select2.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/css/util.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/jquery/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/bootstrap/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/select2/select2.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/vendor/tilt/tilt.jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/js/form.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/images/pexels-photo-572897.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/fonts/montserrat/Montserrat-Bold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/fonts/montserrat/Montserrat-ExtraBold.ttf HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 00:54:46] "[36mGET /static/fonts/montserrat/Montserrat-Regular.ttf HTTP/1.1[0m" 304 -
